@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 
-![Tu nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight)
+![Tu nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthueGomezM&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthueGomezM&layout=compact&theme=tokyonight)
 
 ---
 
