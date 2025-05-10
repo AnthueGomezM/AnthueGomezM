@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Anthue Gomez!
 
 🎯 Desarrollador | 💡 Aprendiz constante | 🌐 Apasionado por la tecnología
 
@@ -12,7 +12,6 @@
 - 🌱 Aprendiendo sobre: [tecnologías/lenguajes actuales]
 - 💬 Pregúntame sobre: [temas en los que tienes experiencia]
 - 📫 Contáctame: [email o enlace a LinkedIn/portafolio]
-- ⚡ Fun fact: [dato curioso o divertido sobre ti]
 
 ---
 
@@ -26,6 +25,12 @@
 ![GNS3](https://img.shields.io/badge/-GNS3-313131?style=flat&logo=data:image/png;base64,...)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
