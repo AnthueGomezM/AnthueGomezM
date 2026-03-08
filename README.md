@@ -10,7 +10,6 @@
 
 - 🔭 Actualmente trabajando en: [tu proyecto actual o tema de interés]
 - 🌱 Aprendiendo sobre: [tecnologías/lenguajes actuales]
-- 💬 Pregúntame sobre: [temas en los que tienes experiencia]
 - 📫 Contáctame: [email o enlace a LinkedIn/portafolio]
 
 ---
